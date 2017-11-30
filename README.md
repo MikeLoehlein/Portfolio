@@ -1,2 +1,2 @@
 # Portfolio
-A public github repository which contains example code that I have prepared.
+A public github repository that contains several pieces of example code that I have prepared.
